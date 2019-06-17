@@ -1,4 +1,4 @@
-const visitor = require("../dist/estree-visitor.esm");
+const visitor = require("estree-visitor");
 const acorn = require("acorn");
 
 const statement = "console.log('hello')";

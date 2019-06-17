@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start-demo": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "Igor L Irianto <igoririanto@rocketmail.com>",
+  "license": "mit",
+  "dependencies": {
+    "acorn": "6.1.1",
+    "estree-visitor": "1.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.3"
+  }
+}
