@@ -1,6 +1,6 @@
 {
   "name": "estree-visitor",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Igor L Irianto <igoririanto@rocketmail.com>",
   "description": "Lightweight ESTree traversal",
   "main": "dist/estree-visitor.umd.js",
