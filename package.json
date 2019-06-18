@@ -1,6 +1,6 @@
 {
   "name": "estree-visitor",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Igor L Irianto <igoririanto@rocketmail.com>",
   "description": "Lightweight ESTree traversal",
   "main": "dist/estree-visitor.umd.js",
@@ -11,6 +11,10 @@
     "build": "run-s clean && run-p build:esm build:umd",
     "build:esm": "NODE_ENV=esm rollup -c",
     "build:umd": "NODE_ENV=umd rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iggredible/estree-visitor.git"
   },
   "keywords": [
     "ESTree",
