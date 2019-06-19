@@ -1,7 +1,8 @@
 ![ESTree-visitor](readme_assets/ESTree-visitor-logo.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Build Status](https://img.shields.io/travis/iggredible/estree-visitor.svg?style=flat-square)](https://github.com/iggredible/estree-visitor)
 
 
 Traverse through Javascript AST as described by [ESTree-spec](https://github.com/estree/estree).
