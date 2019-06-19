@@ -1,5 +1,9 @@
 ![ESTree-visitor](readme_assets/ESTree-visitor-logo.png)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
 Traverse through Javascript AST as described by [ESTree-spec](https://github.com/estree/estree).
 
 # Installation / Usage
